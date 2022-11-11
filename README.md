@@ -9,6 +9,7 @@
 - 📚 16 years experience working at academic & public libraries
 - 😋 Love katsu curry!
 - 📫 Reach me at helenpjobs@gmail.com
+- ➡️ www.linkedin.com/in/helen-pickavance
 <!---
 ellohez/ellohez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
