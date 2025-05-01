@@ -5,7 +5,8 @@
 - 💻 I have a BSc (Hons) degree in Software Engineering (2:1)
 - ↗️➡️↘️↙️⬅️ Tech returner after a squiggly career
 - 🌱 I’m currently learning Ruby on Rails
-- 📚 Previously studied and worked with C, C++ and C#, more recently JavaScript, TypeScript, React, Redux, HTML SASS
+- 📚 Previously studied and worked with C, C++ and C#, 
+- ♦️ Currently working with Ruby and Ruby on Rails, JavaScript, HTML, SASS
 - 🤓 Previously completed an Introduction to Python course with [Code First Girls](https://codefirstgirls.com/) - see HungryHorace repository.
 - 💞️ I’m open to collaboration
 - 📚 16 years experience working at academic & public libraries
